@@ -12,6 +12,14 @@ Conflicts are evaluated using structured metrics that can be independently verif
 
 ---
 
+## About
+
+Learn about the purpose and structure of the project.
+
+[About the Observatory](About/About.md)
+
+---
+
 ## Core Indicators
 
 Each conflict is evaluated on a **1–10 scale** using five indicators:
