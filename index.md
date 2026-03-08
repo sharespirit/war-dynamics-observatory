@@ -20,8 +20,16 @@ These indicators provide a structured view of how wars evolve over time.
 
 ## Latest Report
 
-[Middle East Conflict Report – 7 March 2026](Reports/2026-03-07%20Middle%20East%20Conflict%20Report.md)
+## Conflicts Monitored
 
+### Ukraine War
+[View Reports](Reports/Ukraine)
+
+### Gaza Conflict
+[View Reports](Reports/Gaza)
+
+### Iran–Israel Conflict
+[View Reports](Reports/Iran-Israel)
 ---
 
 ## Explore the Observatory
