@@ -1,16 +1,11 @@
-\# Data
-
-
+# Data
 
 This folder contains datasets used by the War Dynamics Observatory.
 
+All datasets are public in order to ensure transparency and reproducibility.
 
+---
 
-Examples:
+## Current datasets
 
-\- conflict indicator scores
-
-\- escalation metrics
-
-\- sustainability indicators
-
+- middle-east-2026.csv
