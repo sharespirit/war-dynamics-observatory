@@ -1,5 +1,7 @@
 # Ukraine War
 
+[View Conflict Dashboard](dashboard.md)
+
 This section contains analytical reports on the Russia–Ukraine war.
 
 Reports are organized chronologically and evaluated using the War Dynamics Observatory analytical framework.
