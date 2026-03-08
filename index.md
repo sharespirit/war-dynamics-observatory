@@ -30,6 +30,7 @@ These indicators provide a structured view of how wars evolve over time.
 
 ### Iran–Israel Conflict
 [View Reports](Reports/Iran-Israel)
+
 ---
 
 ## Explore the Observatory
