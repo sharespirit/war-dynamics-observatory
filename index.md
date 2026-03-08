@@ -18,6 +18,7 @@ Conflicts are analyzed using five indicators:
 
 Each indicator is evaluated on a **1–10 scale**.
 
-## Latest Report
+## Sections
 
-[[2026-03-07 Middle East Conflict Report]]
+- [Methodology](Methodology/Methodology)
+- [Latest Report](Reports/2026-03-07%20Middle%20East%20Conflict%20Report)
