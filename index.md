@@ -36,6 +36,10 @@ Each conflict is evaluated on a **1–10 scale** using five indicators:
 
 [Middle East Conflict Report — March 2026](Reports/2026-03-07%20Middle%20East%20Conflict%20Report.md)
 
+View all reports:
+
+[Reports Archive](Reports/index.md)
+
 ---
 
 ## Methodology
