@@ -1,57 +1,47 @@
 # War Dynamics Observatory
 
-An independent observatory analyzing global conflicts through transparent indicators and repeatable analytical methods.
+An independent analytical project designed to make the dynamics of armed conflicts transparent and understandable.
+
+The Observatory evaluates conflicts using structured indicators and observable data in order to reduce narrative bias and improve public understanding.
 
 ---
 
-## Mission
+## Global Conflict Dashboard
 
-The War Dynamics Observatory aims to reduce the influence of propaganda and narrative bias in geopolitical analysis by focusing on observable indicators.
+The Observatory evaluates conflicts across **15 analytical indicators** covering:
 
-Conflicts are evaluated using structured metrics that can be independently verified.
+- conflict dynamics
+- strategic balance
+- systemic context
 
----
-
-## About
-
-Learn about the purpose and structure of the project.
-
-[About the Observatory](About/About.md)
-
----
-
-## Core Indicators
-
-Each conflict is evaluated on a **1–10 scale** using five indicators:
-
-- Offensive Pressure
-- System Vulnerability
-- Social Resilience
-- War Sustainability
-- International Escalation
+These indicators provide a structured view of how wars evolve over time.
 
 ---
 
 ## Latest Report
 
-[Middle East Conflict Report — March 2026](Reports/2026-03-07%20Middle%20East%20Conflict%20Report.md)
-
-View all reports:
-
-[Reports Archive](Reports/index.md)
+[Middle East Conflict Report – 7 March 2026](Reports/2026-03-07%20Middle%20East%20Conflict%20Report.md)
 
 ---
 
-## Methodology
+## Explore the Observatory
 
-Learn how the indicators are calculated and interpreted.
+Methodology  
+Understanding the analytical framework used in the Observatory.
 
 [Methodology](Methodology/Methodology.md)
 
----
+Reports  
+Browse the full archive of conflict analysis.
 
-## Data Transparency
+[Reports](Reports)
 
-All datasets used in the analysis are stored publicly.
+Data  
+Datasets used to support the analysis.
 
-[Data Folder](Data)
+[Data](Data)
+
+About  
+Information about the project and its objectives.
+
+[About](About/About.md)
