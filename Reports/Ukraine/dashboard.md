@@ -1,45 +1,51 @@
 # Ukraine War Dashboard
 
-This dashboard summarizes the current analytical evaluation of the Russia–Ukraine war using the War Dynamics Observatory indicator framework.
+This dashboard summarizes the analytical evaluation of the Russia–Ukraine war using the War Dynamics Observatory framework.
+
+Each indicator is evaluated using:
+
+Score (1–10)  
+Relevance (1–5)  
+Confidence (1–5)
 
 ---
 
 ## Conflict Dynamics
 
-| Indicator | Score |
-|-----------|------|
-| War Intensity | 8 |
-| Operational Momentum | 6 |
-| Escalation Risk | 5 |
-| War Sustainability | 7 |
-| Strategic Initiative | 6 |
+| Indicator | Score | Relevance | Confidence |
+|-----------|------|-----------|-----------|
+| War Intensity | 8 | 5 | 4 |
+| Operational Momentum | 6 | 4 | 3 |
+| Escalation Risk | 5 | 4 | 3 |
+| War Sustainability | 7 | 5 | 4 |
+| Strategic Initiative | 6 | 4 | 3 |
 
 ---
 
 ## Strategic Balance
 
-| Indicator | Score |
-|-----------|------|
-| Military Balance | 6 |
-| Economic Endurance | 7 |
-| Energy Security | 6 |
-| Industrial Capacity | 7 |
-| Technological Edge | 6 |
+| Indicator | Score | Relevance | Confidence |
+|-----------|------|-----------|-----------|
+| Military Balance | 6 | 5 | 3 |
+| Economic Endurance | 7 | 4 | 4 |
+| Energy Security | 6 | 3 | 3 |
+| Industrial Capacity | 7 | 5 | 4 |
+| Technological Edge | 6 | 4 | 3 |
 
 ---
 
 ## Systemic Context
 
-| Indicator | Score |
-|-----------|------|
-| Political Stability | 6 |
-| Social Resilience | 7 |
-| Diplomatic Position | 7 |
-| Information Dominance | 6 |
-| Geographic Advantage | 5 |
+| Indicator | Score | Relevance | Confidence |
+|-----------|------|-----------|-----------|
+| Political Stability | 6 | 4 | 3 |
+| Social Resilience | 7 | 4 | 4 |
+| Diplomatic Position | 7 | 5 | 4 |
+| Information Dominance | 6 | 3 | 3 |
+| Geographic Advantage | 5 | 3 | 3 |
 
 ---
 
-## Interpretation
+## Analytical Interpretation
 
-The Russia–Ukraine war remains a high-intensity industrial conflict characterized by sustained military operations, strong external support for Ukraine, and a prolonged strategic stalemate.
+The Russia–Ukraine war remains a high-intensity industrial conflict characterized by sustained military operations and strong external support structures.
